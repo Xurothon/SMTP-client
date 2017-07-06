@@ -61,3 +61,12 @@ D:\KSIS_Kurs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojR
 D:\KSIS_Kurs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 D:\KSIS_Kurs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 D:\KSIS_Kurs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\GitHub_repository\SMTP-client\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\GitHub_repository\SMTP-client\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\GitHub_repository\SMTP-client\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\GitHub_repository\SMTP-client\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\GitHub_repository\SMTP-client\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\GitHub_repository\SMTP-client\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\GitHub_repository\SMTP-client\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\GitHub_repository\SMTP-client\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\GitHub_repository\SMTP-client\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

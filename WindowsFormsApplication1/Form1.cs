@@ -18,10 +18,18 @@ namespace WindowsFormsApplication1
         {
             Connection connect = new Connection();
             connect.connnection();
-            connect.authLogin(txtUsername.Text, txtPassword.Text);
-            connect.makeMail(txtTo.Text);
-            connect.sendMail(txtMessage.Text);
-            connect.closeConnection();
+            try
+            {
+
+                connect.authLogin(txtUsername.Text, txtPassword.Text);
+                connect.makeMail(txtTo.Text);
+                connect.sendMail(txtMessage.Text);
+                connect.closeConnection();
+            }
+            catch
+            {
+                MessageBox.Show("Ошибка!!");
+            }
             richTextBox1.Text = Addition.getNeedStr();
         }
 
